@@ -3,7 +3,7 @@ class MochaSh < Formula
 
   desc "Mocha.sh — your cozy terminal companion ☕"
   homepage "https://github.com/mocha-sh/mocha"
-  url "https://files.pythonhosted.org/packages/source/m/mocha-sh/mocha-sh-0.1.7.tar.gz"
+  url "https://files.pythonhosted.org/packages/source/m/mocha-sh/mocha-sh-1.0.5.tar.gz"
   sha256 "REPLACE_WITH_REAL_SHA256"
   license "MIT"
 
